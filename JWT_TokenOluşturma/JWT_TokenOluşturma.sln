@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWT_TokenOluşturma", "JWT_TokenOluşturma\JWT_TokenOluşturma.csproj", "{A530F4F3-60B9-414A-99FE-36A1A9EC6F40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A530F4F3-60B9-414A-99FE-36A1A9EC6F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A530F4F3-60B9-414A-99FE-36A1A9EC6F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A530F4F3-60B9-414A-99FE-36A1A9EC6F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A530F4F3-60B9-414A-99FE-36A1A9EC6F40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82404550-7284-4A3E-B1F0-63B7CD05C743}
+	EndGlobalSection
+EndGlobal
