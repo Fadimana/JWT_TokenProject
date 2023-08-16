@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kNXux9aX+7KKwGqjEw+ZDKpBGA1WyD8qM50QziSD7jqS8I5/7aDzjnvdyDVlsSo8ii1lQ4txqJNs8+6e1Y1pXQ==",
+  "dgSpecHash": "59aZftmj68QZO2yd29Bw4EgQDBjJjvhPTrsA7+o0gpC/WQ9Fo68tmhcKjYSp06VL8IF6O5YexZGoNT//y0N4Gw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mm\\source\\repos\\JWT_TokenOluşturma\\JWT_TokenOluşturma\\JWT_TokenOluşturma.csproj",
+  "projectFilePath": "C:\\Users\\mm\\Documents\\GitHub\\JWT_TokenProject\\JWT_TokenOluşturma\\JWT_TokenOluşturma\\JWT_TokenOluşturma.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mm\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.10\\microsoft.aspnetcore.authentication.jwtbearer.7.0.10.nupkg.sha512",
     "C:\\Users\\mm\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.9\\microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",

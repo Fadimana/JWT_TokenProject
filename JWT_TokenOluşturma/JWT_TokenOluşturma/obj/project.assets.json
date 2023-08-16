@@ -878,11 +878,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mm\\source\\repos\\JWT_TokenOluşturma\\JWT_TokenOluşturma\\JWT_TokenOluşturma.csproj",
+      "projectUniqueName": "C:\\Users\\mm\\Documents\\GitHub\\JWT_TokenProject\\JWT_TokenOluşturma\\JWT_TokenOluşturma\\JWT_TokenOluşturma.csproj",
       "projectName": "JWT_TokenOluşturma",
-      "projectPath": "C:\\Users\\mm\\source\\repos\\JWT_TokenOluşturma\\JWT_TokenOluşturma\\JWT_TokenOluşturma.csproj",
+      "projectPath": "C:\\Users\\mm\\Documents\\GitHub\\JWT_TokenProject\\JWT_TokenOluşturma\\JWT_TokenOluşturma\\JWT_TokenOluşturma.csproj",
       "packagesPath": "C:\\Users\\mm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mm\\source\\repos\\JWT_TokenOluşturma\\JWT_TokenOluşturma\\obj\\",
+      "outputPath": "C:\\Users\\mm\\Documents\\GitHub\\JWT_TokenProject\\JWT_TokenOluşturma\\JWT_TokenOluşturma\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mm\\AppData\\Roaming\\NuGet\\NuGet.Config",
